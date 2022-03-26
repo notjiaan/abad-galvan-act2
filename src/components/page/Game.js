@@ -63,7 +63,7 @@ export const Game = () => {
   };
 
   const resultNoDeal = () => {
-    setResult(`Thats a shame to No Deal!  The third number is:  ${getCard3()}`);
+    setResult(`You chose No Deal!  The third number is:  ${getCard3()}`);
     setCard4(card3);
   };
 
