@@ -40,6 +40,7 @@ export const Game = () => {
   const createNumber = () => {
     setCard1(randomNumber());
     setCard2(randomNumber());
+    setCard3(randomNumber());
 
     if (round === 5) {
       setDisable2(true);
