@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;600&family=Secular+One&display=swap');
+
+
+.card-body{
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+.card-header{
+    background-color:lightcoral ;
+    font-family: 'Secular One', sans-serif;
+    font-size: 1.5em;
+}
+.cardText{
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Secular One', sans-serif;
+    font-size: 3em;
+}
